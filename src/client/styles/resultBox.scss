@@ -1,0 +1,17 @@
+.result {
+  text-align: center;
+  background-color: #f5faff;
+  border-radius: 10px;
+  &__heading {
+    padding: 20px;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  &__box {
+    padding: 10px;
+    li {
+      padding: 10px;
+      font-size: 20px;
+    }
+  }
+}
